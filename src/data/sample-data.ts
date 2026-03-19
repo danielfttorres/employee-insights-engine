@@ -4,7 +4,7 @@ export const employees: Employee[] = [
   {
     id: "emp-1",
     name: "Ana Torres",
-    country: "BR",
+    country: "US",
     utilization: 0.82,
     role: "agent"
   },
